@@ -1,5 +1,5 @@
 // base62.js
-// (C) 2014 splashinn
+// splashinn
 
 // define the base62 function
 var toBase62 = (function() {
