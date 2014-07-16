@@ -1,5 +1,5 @@
 // findText.js
-// (C) 2014 splashinn
+// splashinn
 
 var text = "blah blah blah blah blah blah blah Kyle blah blah blah blah Kyle blah blah Kyle";
 var myName = "Kyle";
