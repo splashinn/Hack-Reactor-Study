@@ -1,5 +1,5 @@
 // repeater.js
-// (C) 2014 splashinn
+// splashinn
 
 // Write a function to find the first non-repeated character in a string.
 function repeater(string) {
