@@ -1,5 +1,5 @@
 // stringReduction.js
-// (c) 2014 splashinn
+// splashinn
 
 // Have the function StringReduction(str) take the str parameter being passed
 // and return the smallest number you can get through the following reduction
