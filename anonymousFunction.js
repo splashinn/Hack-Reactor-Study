@@ -1,5 +1,5 @@
 // anonymousFunction.js
-// (C) 2014 splashinn
+// splashinn
 
 // Create a new anonymous function, to use as a wrapper
 (function(){
