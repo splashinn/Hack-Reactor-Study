@@ -1,5 +1,5 @@
 // findSequence.js
-// (C) 2014 splashinn
+// splashinn
 
 function findSequence(goal) {
   function find(start, history) {
